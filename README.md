@@ -25,6 +25,14 @@
 <br>
 <br>
 
+<!-- صورة الكود المتحركة في موقعها الجديد الدقيق بين العنوان وأيقونات المهارات -->
+<div align="center">
+  <img src="./code.gif" width="100%" alt="Code Animation" />
+</div>
+
+<br>
+<br>
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
@@ -100,11 +108,6 @@
   <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Bomberman Contribution Graph">
 </picture>
   
-  <br><br>
-
-  <!-- صورة الكود المتحركة -->
-  <img src="./code.gif" width="100%" alt="Code Animation" />
-
   <br><br>
 
   <!-- عنوان الرسم الثلاثي الأبعاد -->
