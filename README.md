@@ -107,6 +107,27 @@
 
 <div align="center">
   <h3>Profile Details & 3D Contribution Graph</h3>
+  <!-- بداية قسم الرسوم البيانية المتحركة للمساهمات -->
+<div align="center">
+  <code>some animated contribution graphs <b>༼ つ ◕_◕ ༽つ</b></code>
+</div>
+
+<br>
+
+<!-- رسم Bomberman المتحرك -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Bomberman Contribution Graph">
+</picture>
+
+<!-- رسم الأفعى (Snake) المتحرك -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Snake Contribution Graph">
+</picture>
+<!-- نهاية القسم -->
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackbird7x413&theme=tokyonight" width="100%" alt="Profile Details" />
   
