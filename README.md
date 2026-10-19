@@ -64,7 +64,6 @@
   <br>
   <br>
 
-
   <a href="https://www.linkedin.com/in/anas7x/ar"><img src="https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
   
 </div>
@@ -77,22 +76,31 @@
 
 <br>
 
-
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=blackbird7x413&style=flat-square&color=9400D3" /></p> 
 </div>
 
+<br>
+
+<!-- بداية القسم الجديد المُستخرج -->
+<div align="center">
+  <code>some animated contribution graphs <b>༼ つ ◕_◕ ༽つ</b></code>
+</div>
 
 <br>
 
-<div align="center">
-  <h3>Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/bomberman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Bomberman Contribution Graph">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/output/graphs/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Snake Contribution Graph">
+</picture>
+<!-- نهاية القسم الجديد -->
 
 <br>
 <br>
@@ -106,5 +114,3 @@
   
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
-
-<br>
