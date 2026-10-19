@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <b>`データアナリスト`</b>
+  <b>`داتاアナリスト`</b>
   <samp>
       <br>
       Hi there! I'm <b>Anas Arrak</b>
@@ -77,39 +77,34 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=blackbird7x413&style=flat-square&color=9400D3" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=blackbird7x413&style=flat-square&color=9400D3" /></p>  
 </div>
 
 <br>
 
-<!-- بداية القسم الجديد المُستخرج --
-<!-- نهاية القسم الجديد -->
 
 <br>
 <br>
 
 <div align="center">
  
-  <!-- بداية قسم الرسوم البيانية المتحركة للمساهمات -->
 <div align="center">
   <code>some animated contribution graphs <b>༼ つ ◕_◕ ༽つ</b></code>
 </div>
 
 <br>
 
-<!-- رسم Bomberman المتحرك -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px;" alt="Bomberman Contribution Graph">
 </picture>
+  
+  <br><br>
 
-<!-- رسم الأفعى (Snake) المتحرك -->
+  <!-- تمت إضافة الصورة هنا بعد لعبة البومبرمان مباشرة -->
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/code.gif" width="100%" alt="Code Animation" />
 
-<!-- نهاية القسم -->
-  
-  
-  
   <br><br>
   
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
