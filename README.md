@@ -101,7 +101,7 @@
   
   <br><br>
   
-  <!-- 新しいテーマ (season-in-blacks) を反映した3Dグラフ -->
+  <!-- الرسم البياني 3D بالثيم الجديد season-in-blacks -->
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season-in-blacks.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
