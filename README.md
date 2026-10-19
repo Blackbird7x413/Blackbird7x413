@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<!-- صورة الكود المتحركة في موقعها الجديد الدقيق بين العنوان وأيقونات المهارات -->
+<!-- صورة الكود المتحركة -->
 <div align="center">
   <img src="./code.gif" width="100%" alt="Code Animation" />
 </div>
@@ -117,6 +117,6 @@
 
   <br>
   
-  <!-- الرسم الثلاثي الأبعاد -->
-  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <!-- تم تصغير الحجم هنا إلى 70% -->
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%" alt="3D Contribution Graph" />
 </div>
