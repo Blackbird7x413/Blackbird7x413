@@ -13,7 +13,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=DA8EE7&width=900&size=22&center=true&lines=Computer+Engineer+%26+Junior+Data+Analyst;Specialized+in+SQL%2C+Python%2C+Power+BI+%26+Excel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F3E5F5&width=900&size=22&center=true&lines=Computer+Engineer+%26+Junior+Data+Analyst;Specialized+in+SQL%2C+Python%2C+Power+BI+%26+Excel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 </div>
 
 <br>
