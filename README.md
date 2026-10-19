@@ -64,7 +64,6 @@
   <br>
   <br>
 
- 
   <a href="https://www.linkedin.com/in/anas7x/ar"><img src="https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
   
 </div>
@@ -102,8 +101,8 @@
   
   <br><br>
   
-  <!-- الرسم البياني 3D -->
-  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+  <!-- 新しいテーマ (season-in-blacks) を反映した3Dグラフ -->
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season-in-blacks.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <br>
