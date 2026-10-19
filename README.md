@@ -98,7 +98,7 @@
 <br>
 <br>
 
-<!-- تفاصيل البروفايل والرسم البياني ثلاثي الأبعاد بالثيم الأزرق -->
+<!-- تفاصيل البروفايل والرسم البياني ثلاثي الأبعاد بالثيم الداكن -->
 <div align="center">
   <h3>📈 Profile Details & 3D Contribution Graph</h3>
   
@@ -106,8 +106,8 @@
   
   <br><br>
   
-  <!-- الرسم البياني 3D بالثيم الأزرق المطلوب -->
-  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph" />
+  <!-- الرسم البياني 3D (الخيار الأول: profile-season.svg) -->
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <br>
