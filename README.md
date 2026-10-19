@@ -124,7 +124,7 @@
 
 
 <p align="center">
-<img width="25px" src="./assets/quote.png">
+<img width="25px" src="quote.png">
 <br/>
 <strong align="center">What are clouds made of?</strong>
 <br/>
