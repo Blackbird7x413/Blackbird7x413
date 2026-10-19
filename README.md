@@ -25,7 +25,6 @@
 <br>
 <br>
 
-<!-- صورة الكود المتحركة -->
 <div align="center">
   <img src="./code.gif" width="100%" alt="Code Animation" />
 </div>
@@ -111,14 +110,12 @@
   
   <br><br>
 
-  <!-- عنوان الرسم الثلاثي الأبعاد -->
   <div align="center">
     <code>3D contribution stats <b>(⌐■_■)</b></code>
   </div>
 
   <br>
   
-  <!-- تم تصغير الحجم هنا إلى 70% -->
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%" alt="3D Contribution Graph" />
 </div>
 
