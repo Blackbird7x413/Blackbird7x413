@@ -25,6 +25,7 @@
 <br>
 <br>
 
+<!-- أيقونات المهارات والتقنيات -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
@@ -64,6 +65,7 @@
   <br>
   <br>
 
+  <!-- رابط LinkedIn -->
   <a href="https://www.linkedin.com/in/anas7x/ar"><img src="https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
   
 </div>
@@ -76,12 +78,14 @@
 
 <br>
 
+<!-- عداد الزوار -->
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=blackbird7x413&style=flat-square&color=9400D3" /></p> 
 </div>
 
 <br>
 
+<!-- أنيميشن الأفعى Snake -->
 <div align="center">
   <h3>📊 GitHub Contribution Snake</h3>
   <picture>
@@ -94,6 +98,7 @@
 <br>
 <br>
 
+<!-- تفاصيل البروفايل والرسم البياني ثلاثي الأبعاد بالثيم الأزرق -->
 <div align="center">
   <h3>📈 Profile Details & 3D Contribution Graph</h3>
   
@@ -101,8 +106,8 @@
   
   <br><br>
   
-  <!-- الرسم البياني 3D بالثيم الجديد season-in-blacks -->
-  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season-in-blacks.svg" width="100%" alt="3D Contribution Graph" />
+  <!-- الرسم البياني 3D بالثيم الأزرق المطلوب -->
+  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <br>
