@@ -102,10 +102,18 @@
   
   <br><br>
 
-  <!-- تمت إضافة الصورة هنا بعد لعبة البومبرمان مباشرة -->
-  <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/code.gif" width="100%" alt="Code Animation" />
+  <!-- صورة الكود المتحركة -->
+  <img src="./code.gif" width="100%" alt="Code Animation" />
 
   <br><br>
+
+  <!-- عنوان الرسم الثلاثي الأبعاد -->
+  <div align="center">
+    <code>3D contribution stats <b>(⌐■_■)</b></code>
+  </div>
+
+  <br>
   
+  <!-- الرسم الثلاثي الأبعاد -->
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
