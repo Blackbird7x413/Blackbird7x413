@@ -30,15 +30,6 @@
   <img src="./code.gif" width="100%" alt="Code Animation" />
 </div>
 
-<p align="center">
-<img width="25px" src="./assets/quote.png">
-<br/>
-<strong align="center">What are clouds made of?</strong>
-<br/>
-<span align="center">Mostly linux servers.</span>
-</p>
-
-<p align="center">(Update on: 8/4/2022, 7:36:28 AM)</p>
 
 <br>
 <br>
@@ -130,3 +121,14 @@
   <!-- تم تصغير الحجم هنا إلى 70% -->
   <img src="https://raw.githubusercontent.com/blackbird7x413/blackbird7x413/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%" alt="3D Contribution Graph" />
 </div>
+
+
+<p align="center">
+<img width="25px" src="./assets/quote.png">
+<br/>
+<strong align="center">What are clouds made of?</strong>
+<br/>
+<span align="center">Mostly linux servers.</span>
+</p>
+
+<p align="center">(Update on: 8/4/2022, 7:36:28 AM)</p>
