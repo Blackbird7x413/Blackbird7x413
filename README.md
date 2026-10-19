@@ -131,4 +131,4 @@
 <span align="center">Mostly linux servers.</span>
 </p>
 
-<p align="center">(Update on: winter/2020 )</p>
+<p align="center">(Update on: 2020/winter )</p>
